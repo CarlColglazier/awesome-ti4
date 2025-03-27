@@ -21,4 +21,6 @@ Big list of Twilight Imperium resources
 
 The Milty draft is a system for setting up the board.
 
++ [TI4 Lab](https://tidraft.com/) [[code]](https://github.com/heisenbugged/ti4-lab) - Has some nice features including equidistant tiles, the ability ot randomize slices after the initial setup, and JSON import/export.
+
 + [Milty Draft Generator](https://milty.shenanigans.be/) [[code]](https://github.com/shenanigans-be/miltydraft)
