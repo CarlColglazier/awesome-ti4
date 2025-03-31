@@ -32,12 +32,13 @@ Big list of Twilight Imperium resources
 ### Videos
 
 + [Cardboard Crash Course](https://www.youtube.com/watch?v=vYtXkU0Zd6k&list=PLlF0bVnTB2In19o0VONJke_OO79ahExEN&index=2)
+  + [Cardboard Crash Course - Twilight Imperium channel](https://www.youtube.com/@CardboardCrashCourseTI/)
 
 ## Milty Draft
 
 The Milty draft is a system for setting up the board.
 
-+ [TI4 Lab](https://tidraft.com/) [[code]](https://github.com/heisenbugged/ti4-lab) - Has some nice features including equidistant tiles, the ability ot randomize slices after the initial setup, and JSON import/export.
++ [TI4 Lab](https://tidraft.com/) [[code]](https://github.com/heisenbugged/ti4-lab) - Has some nice features including equidistant tiles, the ability to randomize slices after the initial setup, and JSON import/export.
 
 + [Milty Draft Generator](https://milty.shenanigans.be/) [[code]](https://github.com/shenanigans-be/miltydraft)
 
